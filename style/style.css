@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-size: 1.6rem;
+    font-family: 'Inter', sans-serif;
+    
+
+
+}
+
+.home{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   
+}
+.home-text{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 1.813rem;
+    color: #5E5E5E;
+}
+.home-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.938rem;
+}
+.home-button button {
+    
+background: #B47AEA;
+border-radius: 0.938rem;
+width: 9rem;
+height: 2.813rem;
+border: none;
+
+font-weight: 700;
+font-size: 1.5rem;
+line-height: 1.813rem;
+
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+main{
+    margin-top: 14.938rem;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+
+}
